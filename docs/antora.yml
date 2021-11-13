@@ -1,5 +1,6 @@
 name: home
 title: '⌂ Home'
 # This version does not change:
-version: master
+version: ~
 display_version: Default
+start-page: ROOT:index.adoc
