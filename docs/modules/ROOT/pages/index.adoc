@@ -1,0 +1,97 @@
+= Metathesis demo site
+
+This is a site that is intended to demonstrate the capabilities of AsciiDoc and Antora.
+
+[lowergreek, start=4]
+. List item 1.
++
+This is another paragraph, but it should not be numbered.
+.. List item a.
+.. List item b.
+. List item 2.
+
+//
+
+- [x] An Item
+- [ ] A Item
+
+//
+
+The following is a task list:
+
+[.task]
+. Step one. Fhfhfhfh ghghg ththt dbdbdb ththt thhe ththth therhe ththth ththth ththth sssewewe thehe mm vhd kfjgjtj fjfjf ngfhghgj yjyjr yjjnnd.
+Hghg ththt dbdbdb ththt thhe ththth therhe ththth ththth ththth sssewewe thehe mm vhd kfjgjtj fjfjf ngfhghgj yjyjr yjjnnd
++
+This is an example paragraph. It must not be numbered hghg ththt dbdbdb ththt thhe ththth therhe ththth ththth ththth sssewewe thehe mm vhd kfjgjtj fjfjf ngfhghgj yjyjr yjjnnd.
+
+.. Substep a.
+.. Substep b.
+. Step two.
+. Step three.
+. Step four.
+. Step five.
+. Step six.
+. Step seven.
+. Step eight.
+. Step nine.
+. Step ten.
+. Step eleven.
+. Step twelve.
+. Step Thirteen.
+. Step fourteen.
+. Step fifteen.
+. Step sixteen.
+. Step seventeen.
+. Step eighteen.
+. Step nineteen.
+. Step twenty.
+
+[.task]
+. This is another task list. This time with an embeded table.
++
+|===
+|Col A |Col B
+|Cell 1A
+|Cell 1B
+
+|Cell 2A
+|Cell 2B
+
+|===
+
+. Task two.
+
+//
+. This is the same list bu without the task role. This time with an embeded table.
++
+|===
+|Col A |Col B
+|Cell 1A
+|Cell 1B
+
+|Cell 2A
+|Cell 2B
+
+|===
+
+. Task two.
+
+
+[frame=ends]
+|===
+|Header 1 |Header 2 |Header 3
+
+|Column 1, row 1
+|Column 2, row 1
+|Column 3, row 1
+
+|Column 1, row 2
+|Column 2, row 2
+|Column 3, row 2
+
+|Column 1, row 3
+|Column 2, row 3
+|Column 3, row 3
+|===
+
