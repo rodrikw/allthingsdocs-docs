@@ -1,0 +1,13 @@
+= Local folder structure
+
+On my local computer, I have the following structure (all within `C:{backslash}Users{backslash}__UserName__{backslash}Documents{backslash}`):
+
+* `antora-playbook-mt-local` -- The location of the local Antora playbook, which is used to generate the site from the local files during development.
+* `antora-playbook-mt-remote` -- The location of the Antora playbook that retrieves content from GitHub.
+* `metathesis-site` -- the location of the output of the Antora remote output.
+* `metathesis-site-local` -- the location of the output of the Antora local output.
+* `metathesis-ui` -- The folder for developing the UI bundle for the metathesis site.
+* `source` -- folder containing all the site source files (Asciidoc, images, antora.yml, etc.).
+This folder has subfolders for each of the site components: `_home` and `recommendations` at this stage.
+Each component has a corresponding repository on GitHub.
+* `temp-ui-build` -- a folder to which the remote UI bundle can be downloaded by a PowerShell script prior to generation.
