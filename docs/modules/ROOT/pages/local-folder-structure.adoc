@@ -10,4 +10,4 @@ On my local computer, I have the following structure (all within `C:{backslash}U
 * `source` -- folder containing all the site source files (Asciidoc, images, antora.yml, etc.).
 This folder has subfolders for each of the site components: `_home` and `recommendations` at this stage.
 Each component has a corresponding repository on GitHub.
-* `temp-ui-build` -- a folder to which the remote UI bundle can be downloaded by a PowerShell script prior to generation.
+
