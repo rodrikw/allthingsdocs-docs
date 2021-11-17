@@ -4,3 +4,5 @@ title: '⌂ Home'
 version: ~
 display_version: Default
 start-page: ROOT:index.adoc
+nav:
+  - modules/ROOT/index.adoc
