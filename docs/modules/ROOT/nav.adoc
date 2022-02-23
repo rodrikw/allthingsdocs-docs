@@ -1,3 +1,5 @@
 * xref:index.adoc[]
 ** xref:why-asciidoc-and-antora.adoc[]
 ** xref:local-folder-structure.adoc[]
+** xref:github-repos.adoc[]
+** xref:update-procedure.adoc[]
