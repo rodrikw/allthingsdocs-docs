@@ -1,3 +1,3 @@
-= mt-home
+= interlocquio-home
 
-The home component for the Interloqu.io site.
+The home component for the Interloquio demo doc site.
