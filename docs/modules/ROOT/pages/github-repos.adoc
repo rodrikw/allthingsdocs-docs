@@ -1,0 +1,16 @@
+= GitHub repos
+
+The following repos exist on GitHub:
+
+* `antora-playbook-mt-local` -- contains the local Antora playbook (used by during development).
+* `antora-playbook-mt-remote` -- contains the remote Antora playbook (used to generate site that is published on Netlify).
+* `metathesis-site` -- contains the output site resulting from running Antora using the remote playbook.
+Updates to this repo trigger Netlify to rebuild the Metathesis site.
+* `metathesis-ui` -- contains the files for developing the UI bundle used by this site.
+* `metathesis-ui-build` -- contains the UI ZIP bundle.
+In theory storing zipped files on GitHub is not recommended but in this case it's convenient.
+* `mt-home` -- contains the `_home`  component.
+* `mt-recommendations` -- contains the `recommendations` component.
+
+
+
