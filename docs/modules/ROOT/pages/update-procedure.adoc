@@ -1,0 +1,19 @@
+= Update procedure
+
+The following is the workflow for a typical update to an existing component.
+
+. If you do not already have the relevant repo, clone it.
+Otherwise, sync the repo (fetch origin)?.
+. Clone or sync the local playbook repo.
+. Clone or sync the remote playbook repo.
+. Update the relevant files.
+. Commit the changes.
+. Generate the output using the local playbook.
+. Check the output.
+. If all OK, push the changes to the GitHub repo.
+. Generate the output using the local playbook.
+. Check the output.
+. If all OK, push to the GitHub site repo.
+
+
+
