@@ -1,7 +1,9 @@
-= Metathesis demo site
+= Interloquio demo site
 
-This site is intended as a working site in which I explore using AsciiDoc and Antora to generate a documentation site.
+This site is intended as a working site in which I explore using AsciiDoc, Antora, and Netlify to generate a documentation site.
 As such, it will both reflect what I've learnt and document it.
+
+
 
 
 
