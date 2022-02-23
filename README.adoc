@@ -1,3 +1,3 @@
-= interlocquio-home
+= interlocquio-doc-site-home
 
 The home component for the Interloquio demo doc site.
