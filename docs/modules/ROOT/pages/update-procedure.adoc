@@ -2,8 +2,20 @@
 
 The following is the workflow for a typical update to an existing component.
 
+The writer does the following:
+
 . If you do not already have the relevant repo, clone it.
-Otherwise, sync the repo (fetch origin)?.
+Otherwise, sync the repo (fetch origin).
+. Create a new branch.
+. Edit files.
+. Commit the changes to the local repo.
+. Publish the branch to GitHub.
+
+
+
+
+
+
 . Clone or sync the local playbook repo.
 . Clone or sync the remote playbook repo.
 . Update the relevant files.
