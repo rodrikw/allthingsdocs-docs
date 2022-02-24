@@ -28,11 +28,11 @@ The most flexible, grid tables, is also the most frustrating because it relies o
 +------------------------+------------+----------+----------+
 ----
 
-Alsthough such tables have the advnatage that they are easy to read in the source format, they are very inconvenient maintain.
+Although such tables have the advantage that they are easy to read in the source format, they are very inconvenient maintain.
 In the time that I was using RST, I spent ages creating and modifying tables.
 I really doubted that I could recommend this to technical writers who would be using tables extensively.
 
-I should mention that there are alternatives for simple grid-like tables but they are quite restrictive.
+I should mention that there are alternatives for simple grid-like tables, but they are quite restrictive.
 
 By contrast, Asciidoc's principal table format is simple and flexible:
 
