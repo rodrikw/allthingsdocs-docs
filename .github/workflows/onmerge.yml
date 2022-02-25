@@ -1,0 +1,16 @@
+# .github/workflows/onmerge.yml
+
+name: Trigger build site on merge
+on:
+  pull_request:
+    types:
+      - closed
+
+jobs:
+  if_merged:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+    steps:
+    - name: Request Netlify Webhook
+    - run: |
+        run: curl -X POST -d {} https://api.netlify.com/build_hooks/62175602eeff3a9520d3f2e7
