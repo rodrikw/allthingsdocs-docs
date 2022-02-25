@@ -1,18 +1,18 @@
 = Update procedure for non-versioned components
 
-The following is the workflow for a typical update to an existing component is not formally versioned.
+The following is the workflow for a typical update to an existing component that is not formally versioned.
 
 The writer does the following:
 
 . If you do not already have the relevant repo, clone it.
 Otherwise, sync the repo (fetch origin).
 . Create a new branch.
+For an unversioned component, it's convenient to use `dev`.
 . Edit the relevant files.
 . Commit the changes to your local repo.
 . Publish the branch to GitHub.
 . Push the changes to GitHub.
 . Create a pull request.
-
 
 The repo owner does the following:
 
