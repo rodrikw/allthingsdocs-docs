@@ -5,3 +5,5 @@ As such, it will both reflect what I've learnt and document it.
 
 
 This is a minor change added 2022-02-25T12:27:27+02:00.
+
+And here is another addition.
