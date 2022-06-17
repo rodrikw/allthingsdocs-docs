@@ -1,3 +1,3 @@
-= interloquio-doc-site-home
+= allthingsdocs-docs
 
-The home component for the Interloquio demo doc site.
+The home component for the All Things Docs  demo doc site.
